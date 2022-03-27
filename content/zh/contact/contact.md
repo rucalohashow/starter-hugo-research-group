@@ -18,12 +18,12 @@ content:
   email: test@example.org
   phone: 888 888 88 88
   address:
-    street: 中关村大街
-    city: 北京
-    region: 海淀区
+    street: Zhongguancun Street
+    city: Beijing
+    region: Haidian
     postcode: '100872'
     country: China
-    country_code: CH
+    country_code: CN
   coordinates:
     latitude: '39.97028620396566'
     longitude: '116.31649718530116'

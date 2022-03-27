@@ -19,6 +19,6 @@ design:
   css_class:
 ---
 
-# 自然语言处理
+# Natural Language Processing
 
-# 对话系统
+# Dialogue System

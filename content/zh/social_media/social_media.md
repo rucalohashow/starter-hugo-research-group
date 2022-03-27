@@ -19,6 +19,6 @@ design:
   css_class:
 ---
 
-# 微信公众号
+# WeChat Public account
 Aloha lab
-# 知乎
+# Zhi Hu
