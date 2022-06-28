@@ -10,25 +10,29 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Ph.D Student
 
 # Organizations/Affiliations
 organizations:
-- name: xxx
-  url: ""
+- name: Gaoling School of Artifical Intelligence
+  url: "http://ai.ruc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: A student.
 
 interests:
-- Machine Learning
-- Artificial Intelligence for Drug Discovery
+- AI for Medical Health
+- AI for Drug Discovery
 
 education:
   courses:
   - course: B.S.
     institution: University of Science and Technology of China
-    year: xxxx
+    year: 08/2018-06/2022
+  
+  - course: Ph.D.
+    institution: Renmin University of China
+    year: 09/2022-Now
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +48,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=zh-CN
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/qizhipei
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +66,4 @@ user_groups:
 - Student
 ---
 
-pending
+See [his personal homepage](https://qizhipei.github.io/) to know more about him. 

@@ -15,7 +15,7 @@ role: Associate Professor with tenure (PhD Advisor) at Gaoling School of Artific
 # Organizations/Affiliations
 organizations:
 - name: Renmin University of China
-  url: ""
+  url: "https://www.ruc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural language processing, information retrieval, text mining, machine learning, and artificial intelligence.
@@ -69,3 +69,5 @@ user_groups:
 ---
 
 Dr. Rui Yan was a tenure-track assistant professor and PhD advisor at Wangxuan Institute of Computer Technology, Peking University. He was selected as a Young Fellow at Beijing Academy of Artificial Intelligence (BAAI) and a Startrack scholar at Microsoft Research Asia (MSRA). He joined Gaoling School of Artificial Intelligence, Renmin University of China, as a tenured associate professor. Till now, he has published 100+ publications with 4,000+ citations. He often serves as an area chair/senior PC member for various first-tier international venues. He has been invited to give tutorial talks for a series of top international conferences. His research interests include natural language processing, information retrieval, text mining, machine learning and artificial intelligence.
+
+You can also refer to the [GSAI Page](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn).
