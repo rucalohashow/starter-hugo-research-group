@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Shuqi Li
+title: Zile Zhou
 
 # Username (this should match the folder name)
 authors:
-- Shuqi Li
+- Zile Zhou
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D Student
+role: M.S Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,23 +21,18 @@ organizations:
 bio: A student.
 
 interests:
-- Deep Learning
-- AI for Science
-- Fintech
+- Natural Language Processing
+- Recommendation System
 
 education:
   courses:
   - course: B.S
-    institution: Xi’an University of Technology
-    year: 09/2014-07/2018
-
-  - course: M.S
-    institution: Beijing Jiaotong University
-    year: 09/2019-07/2021
-  
-  - course: Ph.D
     institution: Renmin University of China
-    year: 09/2021-Now
+    year: 09/2016-06/2020
+  
+  - course: M.S
+    institution: Renmin University of China
+    year: 09/2020-Now
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,7 +50,7 @@ social:
 #   link: https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/Shuqi-li
+  link: https://github.com/ZileZ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +66,4 @@ user_groups:
 - Student
 ---
 
-See [her personal homepage](https://shuqi-li.github.io/) to know more about her. 
+See [her personal homepage](https://zilez.github.io/) to know more about her. 

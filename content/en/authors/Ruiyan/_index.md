@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D.
+  - course: Ph.D
     institution: Peking University
     year: xxxx
-  - course: B.S.
+  - course: B.S
     institution: Peking University
     year: xxxx
 

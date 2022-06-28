@@ -26,11 +26,11 @@ interests:
 
 education:
   courses:
-  - course: B.S.
+  - course: B.S
     institution: Xiamen University
     year: 09/2017-06/2021
   
-  - course: M.S.
+  - course: M.S
     institution: Renmin University of China
     year: 09/2021-Now
 

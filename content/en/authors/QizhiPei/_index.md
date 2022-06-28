@@ -26,11 +26,11 @@ interests:
 
 education:
   courses:
-  - course: B.S.
+  - course: B.S
     institution: University of Science and Technology of China
     year: 08/2018-06/2022
   
-  - course: Ph.D.
+  - course: Ph.D
     institution: Renmin University of China
     year: 09/2022-Now
 
