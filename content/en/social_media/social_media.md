@@ -22,3 +22,4 @@ design:
 # WeChat Public account
 Aloha lab
 # Zhi Hu
+[GSAI-ALOHA](https://www.zhihu.com/people/c680a6c5b409875bba252c1e3078f01b)
