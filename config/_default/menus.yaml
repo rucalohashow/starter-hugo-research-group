@@ -22,15 +22,15 @@ main:
   # - name: Admission
   #   url: admission
   #   weight: 40
-  - name: Courses
-    url: course
-    weight: 50
-  - name: Group Meeting
-    url: group_meeting
-    weight: 60
+  # - name: Courses
+  #   url: course
+  #   weight: 50
+  # - name: Group Meeting
+  #   url: group_meeting
+  #   weight: 60
   - name: Social Media
     url: social_media
     weight: 70  
-  - name: Contact Us
-    url: contact
-    weight: 80
+  # - name: Contact Us
+  #   url: contact
+  #   weight: 80
